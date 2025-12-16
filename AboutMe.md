@@ -18,6 +18,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github.com/amankProgrammer/amankProgrammer/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
 ---
 
 ### 💻 What I Do
